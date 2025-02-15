@@ -8,7 +8,7 @@
 This Grav installation has been **customized** with the following features:
 
 * **Child Theme**: A child theme, *quarkchild*, has been created to inherit from the parent theme quark.
-* **Vanilla ES6 JavaScript**: The child theme has been modified to use *vanilla* ES6 JavaScript instead of *jQuery*. Jquery will be chosen and used if you add the admin plugin and its related dependency plugins on the /admin pages whereas all / related pages will uses vanilla JS. 
+* **Vanilla ES6 JavaScript**: The child theme has been modified to use *vanilla* ES6 JavaScript instead of *jQuery*. Jquery will be chosen and used if you add the admin plugin and its related dependency plugins on the /admin pages whereas all / related pages will use vanilla JS. 
 
 Grav is a **Fast**, **Simple**, and **Flexible**, file-based Web-platform.  There is **Zero** installation required.  Just extract the ZIP archive, and you are already up and running.  It follows similar principles to other flat-file CMS platforms, but has a different design philosophy than most. Grav comes with a powerful **Package Management System** to allow for simple installation and upgrading of plugins and themes, as well as simple updating of Grav itself.
 
